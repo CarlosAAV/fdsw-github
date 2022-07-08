@@ -11,6 +11,10 @@ body {
   background-size: cover;
 }
 
+.text{
+  text-align: center;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
